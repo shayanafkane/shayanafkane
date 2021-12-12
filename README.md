@@ -15,3 +15,7 @@ My Website : <a href='https://shayanafkane.ir'> https:://shayanafkane.ir 💻 </
   <code><img width="30%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-ar21.svg"></code>
   <code><img width="30%" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
   <code><img width="30%" src="https://www.vectorlogo.zone/logos/yarnpkg/yarnpkg-ar21.svg"></code>
+  
+  <br>
+  <hr>
+  ![Visitor Count](https://profile-counter.glitch.me/{codingknite}/count.svg) 
